@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "name": "Item 3",
+      "description": "This is a lovely item"
+    },
+    {
+      "id": 4,
+      "name": "top",
+      "description": "eta"
+    },
+    {
+      "name": "k-rai",
+      "description": "daora",
+      "id": 5
+    }
+  ],
+  "widgets": [
+    {
+      "id": 3,
+      "name": "Widget 3",
+      "price": 300
+    },
+    {
+      "name": "widget",
+      "price": "102",
+      "id": 4
+    },
+    {
+      "name": "widget",
+      "price": "102",
+      "id": 5
+    }
+  ]
+}
